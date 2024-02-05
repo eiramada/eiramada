@@ -11,11 +11,12 @@ Holding a Bachelor's in Marketing from Tallinn University with a focus on Estoni
 - **Software Developer at Markit Holding AS (2019 – 2022):** Engineered essential internal tools, fostering a unified and productive work environment.
 - **From Specialist to Team Leader at AS Eesti Post (2017 – 2019):** Quietly led initiatives to enhance customer service, proving that listening can be just as powerful as speaking.
 
-<!-- 🏆 **Achievements:**
-- Elevated Eesti Post's customer NPS from -100 to 30.
-- Created "Hotline" software to boost global communication and team morale.
-- Implemented a comprehensive service scheme, enhancing service quality and efficiency.
--->
+
+🏆 **Key Achievements**
+- **From Marketing to Tech:** Transitioned from a Bachelor in Marketing to a tech-focused career, applying marketing insights to develop software that meets real user needs and drives satisfaction.
+- **Leadership in Diversity:** Demonstrated leadership in various roles, from managing a customer service team to spearheading software development projects, always prioritizing empathy and effective communication.
+- **Environmental and User Advocacy:** Consistently applied a commitment to sustainability and user-centric design across roles, from marketing strategies to software development.
+
 🎲 **Interests:**
 Sustainable living, movies, board and computer games, puzzles, badminton, and hiking.
 
