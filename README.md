@@ -1,4 +1,4 @@
-# Hello, I'm Ada 👋
+# 👋 Hello, I'm Ada
 
 🌱 On a **mission** to craft software that simplifies life. My path in tech is powered by a passion for skill growth through mentorship, aiming to make a positive impact with innovative solutions.
 
